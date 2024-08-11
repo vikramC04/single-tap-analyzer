@@ -20,6 +20,6 @@ This project provides a SignalTap Logic Analyzer setup for monitoring internal s
 
 ## Software Requirements
 
-- **Intel Quartus Prime:** Quartus Prime Lite, Standard, or Pro edition for FPGA development.
+- **Intel Quartus Prime:** Quartus Prime Standard version 22.1.1 for FPGA development.
 - **SignalTap Logic Analyzer:** Included with the Quartus Prime software.
 
